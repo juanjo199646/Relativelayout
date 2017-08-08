@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Relativelayout</string>
+    <string name="str_1">str_1</string>
+    <string name="str_2">str_2</string>
+    <string name="str_3">str_3</string>
+    <string name="str_4">str_4</string>
+    <string name="str_5">str_5</string>
+    <string name="str_6">str_6</string>
+    <string name="str_7">str_7</string>
+    <string name="str_8">str_8</string>
+    <string name="str_9">str_9</string>
 </resources>
